@@ -1,9 +1,8 @@
 # CeleryBasic
-celery basic lessons
 
 # Django Celery
 
-1. Yangi papka yaratib uni ichida vitual muhit yartamiz va active qilamiz
+1. Yangi papka yaratib uni ichida virtual muhit yartamiz va active qilamiz
 ```shell
 mkdir django_celery
 cd django_celery
